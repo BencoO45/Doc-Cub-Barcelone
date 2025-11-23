@@ -1,0 +1,20 @@
+site_name: Doc-Cub-Barcelone
+nav:
+  - DNS:
+      - Introduction: docs/dns/intro.md
+      - BIND9: docs/dns/bind9.md
+  - Linux:
+      - Mémo Debian: docs/linux/memo-debian.md
+      - Commandes de base: docs/linux/commandes-base.md
+  - Service Web:
+      - Apache: docs/service-web/apache.md
+      - Nginx: docs/service-web/nginx.md
+  - Stormshield:
+      - Présentation: docs/stormshield/overview.md
+  - Versioning:
+      - Git: docs/versioning/git.md
+  - Windows:
+      - Active Directory: docs/windows/adds.md
+
+theme:
+  name: material
